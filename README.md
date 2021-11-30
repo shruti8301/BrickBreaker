@@ -8,6 +8,7 @@ The Brick Breaker game is started off by the display where the title screen of t
 
 ## :round_pushpin: Project Implementation
 ### :round_pushpin: Block Diagram
+<img src="/images/blockdiagram.png" alt="blockdiagram" width="200"/>
 ![News Section](/images/blockdiagram.png?raw=true "Block Diagram")
 ### :round_pushpin: Loading Screen
 ![News Section](/images/loading.png?raw=true "loading screen")
