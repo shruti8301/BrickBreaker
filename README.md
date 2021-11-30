@@ -20,7 +20,7 @@ While creating the game screen, segments such as the number of lives, timer and 
 ![News Section](/images/gameover.png?raw=true "Gaining a life")
 
 
-# :pencil2:TECH STACK
+## :pencil2:TECH STACK
 ### :round_pushpin:Software/Simulation tools Used
 :heavy_check_mark: Dosbox
 :heavy_check_mark: AssmSoft
