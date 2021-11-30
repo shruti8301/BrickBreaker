@@ -9,13 +9,13 @@ The Brick Breaker game is started off by the display where the title screen of t
 ## :round_pushpin: Project Implementation
 ### :round_pushpin: Block Diagram
 <img src="/images/blockdiagram.png" alt="blockdiagram" width="400"/>
-### :round_pushpin: Loading Screen
+:round_pushpin: Loading Screen
 <img src="/images/loading.png" alt="loading" width="350"/>
-### :round_pushpin: Gameplay
+:round_pushpin: Gameplay
 <img src="/images/gameplay.png" alt="gameplay" width="350"/>
-### :round_pushpin: Gaining a life
+:round_pushpin: Gaining a life
 <img src="/images/gamelife.png" alt="gaining a life" width="350"/>
-### :round_pushpin: Game Over
+:round_pushpin: Game Over
 <img src="/images/gameover.png" alt="blockdiagram" width="350"/>
 
 
