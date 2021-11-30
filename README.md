@@ -16,6 +16,8 @@ While creating the game screen, segments such as the number of lives, timer and 
 ![News Section](/images/gameplay.png?raw=true "Gameplay")
 ### :round_pushpin: Gaining a life
 ![News Section](/images/gamelife.png?raw=true "Gaining a life")
+### :round_pushpin: Game Over
+![News Section](/images/gameover.png?raw=true "Gaining a life")
 
 
 # :pencil2:TECH STACK
